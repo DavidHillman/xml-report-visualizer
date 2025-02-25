@@ -1,0 +1,48 @@
+#scoreboard {
+	max-width: 800px;
+
+}
+
+#scoreboard table {
+	width: 100%;
+}
+
+#scoreboard table tr {
+	margin-bottom: 10px;
+}
+
+#scoreboard table td {
+
+}
+
+#scoreboard table td.team {
+	width: 33%;	
+}
+
+#scoreboard table td.home {	
+	text-align: right;
+}
+
+#scoreboard table td.home .flip-counter {
+	float: right;
+}
+
+#scoreboard table td.team h3 {
+	margin: 0 10px 0 10px;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+#scoreboard table td.score {
+	width: 15%;
+}
+
+#scoreboard table td.divider {
+	width: 4%;		
+	text-align: center;
+}
+
+#scoreboard table td.divider p {
+	font-size: 2em;
+	line-height: 30px;	
+}

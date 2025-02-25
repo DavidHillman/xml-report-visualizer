@@ -1,0 +1,7 @@
+{
+	"require": {
+		"ghunti/highcharts-php": "~3.0",
+		"nategood/httpful": "*",
+		"cboden/ratchet": "0.2.*"
+	}
+}
